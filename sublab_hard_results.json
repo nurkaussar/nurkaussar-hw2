@@ -1,0 +1,201 @@
+{
+  "ranked_candidates": [
+    {
+      "candidate_id": "story-01",
+      "name": "Aziza Bekova",
+      "scores": {
+        "academic": 5,
+        "research": 5,
+        "experience": 2
+      },
+      "weighted_total": 4.4,
+      "cv": {
+        "candidate_id": "story-01",
+        "full_name": "Aziza Bekova",
+        "degree": "BSc in Computer Science",
+        "graduation_year": 2025,
+        "gpa_4_scale": 3.8,
+        "original_gpa_scale": "4.0",
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English"
+        ],
+        "published_peer_reviewed_count": 2,
+        "unpublished_or_pending_count": 0,
+        "total_countable_months_experience": 8,
+        "contradictions": [],
+        "evidence_quotes": {
+          "gpa_evidence": "My final GPA was 3.8 on a 4.0 scale.",
+          "publication_evidence": "The first is a paper on retrieval quality that appeared in a peer-reviewed workshop proceedings in 2025 — this is published and I can send the DOI. The second is a short paper on evaluation methods that was published in a regional journal in early 2026. Both are peer-reviewed publications.",
+          "experience_evidence": "Between my second and fourth years I worked part-time for a data team as a junior analyst, from October 2023 to May 2024, eight months in total."
+        }
+      }
+    },
+    {
+      "candidate_id": "story-04",
+      "name": "Tamerlan Saparov",
+      "scores": {
+        "academic": 4,
+        "research": 3,
+        "experience": 5
+      },
+      "weighted_total": 3.9,
+      "cv": {
+        "candidate_id": "story-04",
+        "full_name": "Tamerlan Saparov",
+        "degree": "BSc in Computer Science",
+        "graduation_year": 2026,
+        "gpa_4_scale": 3.6,
+        "original_gpa_scale": "4.0",
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English",
+          "Turkish (A2)"
+        ],
+        "published_peer_reviewed_count": 1,
+        "unpublished_or_pending_count": 3,
+        "total_countable_months_experience": 24,
+        "contradictions": [],
+        "evidence_quotes": {
+          "gpa_evidence": "GPA 3.6 on a 4.0 scale.",
+          "publication_evidence": "1. *Sparse attention for low-resource Kazakh*, published in a peer-reviewed conference proceedings, 2024. Published.\n2. *A survey of Kazakh NLP resources*, submitted to a journal in January 2026. Under review.\n3. *Tokenizers considered harmful*, in preparation. Not submitted anywhere.\n4. *Evaluation without annotation*, in preparation. Also not submitted.\nSo: one published, one under review, two in preparation.",
+          "experience_evidence": "Twenty-four months in total at a language-technology startup, from September 2023 to September 2025, full-time in the summers and part-time during term."
+        }
+      }
+    },
+    {
+      "candidate_id": "story-05",
+      "name": "Аиша Нұрланқызы",
+      "scores": {
+        "academic": 5,
+        "research": 2.5,
+        "experience": 1.5
+      },
+      "weighted_total": 3.55,
+      "cv": {
+        "candidate_id": "story-05",
+        "full_name": "Аиша Нұрланқызы",
+        "degree": "Bachelor's degree in Computer Science",
+        "graduation_year": 2025,
+        "gpa_4_scale": 3.9,
+        "original_gpa_scale": "4.0",
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English (C1)"
+        ],
+        "published_peer_reviewed_count": 1,
+        "unpublished_or_pending_count": 1,
+        "total_countable_months_experience": 6,
+        "contradictions": [],
+        "evidence_quotes": {
+          "gpa_evidence": "GPA-м 3.9 (4.0 шкаласы бойынша) — бұл менің транскриптімде жазылған сан.",
+          "publication_evidence": "2025 жылы рецензияланатын конференция жинағында бір мақалам жарияланды, деректер жиынтығының сапасы туралы еді. Тағы бір мақала жазылып жатыр, бірақ ол әлі еш жерге жіберілген жоқ.",
+          "experience_evidence": "2025 жылдың қыркүйегінен 2026 жылдың ақпанына дейін бір компанияда алты ай тағылымдамадан өттім."
+        }
+      }
+    },
+    {
+      "candidate_id": "story-03",
+      "name": "Lyazzat Omarova",
+      "scores": {
+        "academic": 4,
+        "research": 3,
+        "experience": 3
+      },
+      "weighted_total": 3.5,
+      "cv": {
+        "candidate_id": "story-03",
+        "full_name": "Lyazzat Omarova",
+        "degree": "BSc in Applied Mathematics",
+        "graduation_year": 2025,
+        "gpa_4_scale": 3.68,
+        "original_gpa_scale": "5.0",
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English"
+        ],
+        "published_peer_reviewed_count": 1,
+        "unpublished_or_pending_count": 1,
+        "total_countable_months_experience": 14,
+        "contradictions": [],
+        "evidence_quotes": {
+          "gpa_evidence": "My GPA was 4.6 out of 5.0.",
+          "publication_evidence": "One paper published in 2024 in a peer-reviewed conference proceedings (graph theory, a small result, entirely mine). A second paper is under review at a journal since March 2026 — I am listing it for completeness and I understand it does not count as published.",
+          "experience_evidence": "The first, nine months, at a risk department building spreadsheet models. The second, five months, at a research institute working on graph tooling."
+        }
+      }
+    },
+    {
+      "candidate_id": "story-02",
+      "name": "Dias Yerzhanov",
+      "scores": {
+        "academic": 0,
+        "research": 2.5,
+        "experience": 5
+      },
+      "weighted_total": 1.75,
+      "cv": {
+        "candidate_id": "story-02",
+        "full_name": "Dias Yerzhanov",
+        "degree": "Bachelor's in Information Systems",
+        "graduation_year": null,
+        "gpa_4_scale": null,
+        "original_gpa_scale": null,
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English (B2)"
+        ],
+        "published_peer_reviewed_count": 1,
+        "unpublished_or_pending_count": 0,
+        "total_countable_months_experience": 36,
+        "contradictions": [],
+        "evidence_quotes": {
+          "gpa_evidence": "There is no GPA figure anywhere in my transcript that I would want to put in a letter, so I am not going to make one up.",
+          "publication_evidence": "On the research side I have one published paper, in a student conference proceedings, about the scheduling tool.",
+          "experience_evidence": "I have been employed continuously for three years. That is thirty-six months as a backend developer at a logistics company, starting the month after my third year ended and continuing today."
+        }
+      }
+    },
+    {
+      "candidate_id": "story-06",
+      "name": "Nurzhan Abilov",
+      "scores": {
+        "academic": 0,
+        "research": 2.5,
+        "experience": 5
+      },
+      "weighted_total": 1.75,
+      "cv": {
+        "candidate_id": "story-06",
+        "full_name": "Nurzhan Abilov",
+        "degree": "BSc in Statistics",
+        "graduation_year": null,
+        "gpa_4_scale": null,
+        "original_gpa_scale": null,
+        "languages": [
+          "Kazakh",
+          "Russian",
+          "English"
+        ],
+        "published_peer_reviewed_count": 1,
+        "unpublished_or_pending_count": 0,
+        "total_countable_months_experience": 40,
+        "contradictions": [
+          "The story states both \"I graduated in 2024\" and \"I am currently a final-year student graduating in 2026.\"",
+          "The story gives conflicting GPAs: \"My GPA was 3.2\" and \"I think it was 3.5.\""
+        ],
+        "evidence_quotes": {
+          "gpa_evidence": "My GPA was 3.2. Actually I should double-check that, I think it was 3.5 — the 3.2 might be from the transcript I printed in third year.",
+          "publication_evidence": "one paper published, in a peer-reviewed proceedings, on survey weighting. One poster at a local event, which I do not think counts.",
+          "experience_evidence": "I have been at an insurance analytics team since February 2023, which is about forty months. I was part-time for the first eight of those while I was still studying, then full-time."
+        }
+      }
+    }
+  ],
+  "prose_recommendation": "**Recommendation: Story-01, Aziza Bekova.** She offers the strongest overall combination of academic achievement, research output, and credible preparation for graduate work: a 3.8/4.0 GPA, two peer-reviewed publications already published, and a clear plan to develop her retrieval research into a thesis. Her eight months of data-team experience, although not research employment, adds practical technical and software-maintenance skills. Compared with candidates whose work is unpublished, under review, or whose academic records are uncertain or not directly comparable, Aziza presents the most complete and verifiable profile."
+}
